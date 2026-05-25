@@ -1,0 +1,6 @@
+769015125, Juan Osorio, 005, A, 75.0
+769009435, Carlos Ruano, 006, E, 60.5
+769016100, Magda Aguilar, 005, B, 90.0
+769010250, Elizabeth Marroquín, 035, A, 80.1
+769019345, Carlos Jiménez, 035, A, 70.0
+769019345, Wendy Hernández, 035, A, 70.0
